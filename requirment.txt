@@ -1,0 +1,76 @@
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+streamlit-webrtc>=0.47.0
+
+# Audio Processing and Visualization
+numpy>=1.24.0
+matplotlib>=3.7.0
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.0
+scipy>=1.10.0
+
+# Machine Learning and Deep Learning
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+accelerate>=0.20.0
+
+# Whisper ASR (Speech-to-Text)
+openai-whisper>=20230918
+whisper-jax>=0.0.5
+
+# IndicTrans2 Dependencies
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+indic-nlp-library>=0.81
+polyglot>=16.7.4
+
+# Text-to-Speech
+TTS>=0.15.0
+espeak-ng>=1.51.1
+phonemizer>=3.2.1
+
+# Audio Recording and Processing
+pyaudio>=0.2.11
+wave>=0.0.2
+webrtcvad>=2.0.10
+
+# Data Processing and Utilities
+pandas>=2.0.0
+requests>=2.31.0
+tqdm>=4.65.0
+pillow>=10.0.0
+
+# File Handling and I/O
+python-multipart>=0.0.6
+aiofiles>=23.1.0
+
+# Configuration and Environment
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Database (Optional - for user history)
+sqlite3>=3.0.0
+sqlalchemy>=2.0.0
+
+# Logging and Monitoring
+loguru>=0.7.0
+
+# Testing (Optional)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Development Tools (Optional)
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Additional Streamlit Components
+streamlit-option-menu>=0.3.6
+streamlit-lottie>=0.0.5
+streamlit-elements>=0.1.0
+
+# System Information
+psutil>=5.9.0
