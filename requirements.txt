@@ -1,5 +1,5 @@
 streamlit==1.28.0
-torch==2.0.1
+torch==2.8.0  # Updated to compatible version
 transformers==4.35.0
 sentencepiece==0.1.99
 soundfile==0.12.1
